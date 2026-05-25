@@ -8,7 +8,7 @@
 **Utilises a machine learning tool split into 3 tiers to identify PCOS driving fields:**\
 **Tier 1: Logistic Regression for basic GP testing**\
 **Tier 2: Random Forest Classifier for PCOS specialist**\ 
-**Differential Diagnosis: XGBoost to distinguish PCOS from endometriosis**\ 
+**Differential Diagnosis: XGBoost to distinguish PCOS from endometriosis** 
 
 ## How we build it
 **Language/tool:** Python, Jupyter Notebook\ 
