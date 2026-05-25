@@ -11,6 +11,6 @@
 **Differential Diagnosis: XGBoost to distinguish PCOS from endometriosis** 
 
 ## How we build it
-**Language/tool:** Python, Jupyter Notebook\ 
-**Data:** 'PCOS_data_without_infertility.xlsx' and '_structured_endometriosis_data.csv' for model training\ 
+**Language/tool:** Python, Jupyter Notebook\
+**Data:** 'PCOS_data_without_infertility.xlsx' and '_structured_endometriosis_data.csv' for model training\
 **Libraries:** Pandas, Numpy, Matplotlib, Scikit-learn
